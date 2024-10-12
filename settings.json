@@ -1,0 +1,107 @@
+{
+    "workbench.startupEditor": "none",
+    "files.associations": {
+        "*.json": "json"
+    },
+    "prettier.prettierPath": null,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "update.mode": "manual",
+    "workbench.tips.enabled": false,
+    "workbench.activityBar.location": "hidden",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.fontFamily": "Geist Mono",
+    "scm.inputFontFamily": "Geist Mono",
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "chat.editor.fontFamily": "Geist Mono",
+    "debug.console.fontFamily": "Geist Mono",
+    "editor.codeLensFontFamily": "Geist Mono",
+    "notebook.output.fontFamily": "Geist Mono",
+    "markdown.preview.fontFamily": "Geist Mono",
+    "editor.inlayHints.fontFamily": "Geist Mono",
+    "editor.fontSize": 16,
+    "editor.formatOnSave": true,
+    "editor.minimap.autohide": true,
+    "editor.foldingHighlight": false,
+    "editor.smoothScrolling": true,
+    "editor.fontLigatures": true,
+    "editor.inlayHints.enabled": "off",
+    "editor.renderLineHighlight": "none",
+    "editor.cursorStyle": "block",
+    "editor.scrollbar.vertical": "hidden",
+    "explorer.sortOrder": "type",
+    "editor.bracketPairColorization.enabled": false,
+    "prettier.printWidth": 100,
+    "prettier.tabWidth": 3,
+    "prettier.requireConfig": false,
+    "prettier.useEditorConfig": false,
+    "eslint.autoFixOnSave": true,
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ],
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[tailwindcss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "files.defaultLanguage": "${activeEditorLanguage}",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "zenMode.centerLayout": false,
+    "zenMode.fullScreen": false,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideStatusBar": false,
+    "zenMode.silentNotifications": false,
+    "zenMode.showTabs": "single",
+    "terminal.integrated.smoothScrolling": true,
+    "git.autofetch": true,
+    "git.openRepositoryInParentFolders": "always",
+    "notebook.formatOnSave.enabled": true,
+    "workbench.sideBar.location": "right",
+    "editor.minimap.enabled": false,
+    "workbench.statusBar.visible": false,
+    "window.commandCenter": false,
+    "workbench.iconTheme": "symbols",
+    "window.menuBarVisibility": "compact",
+    "workbench.layoutControl.enabled": false,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "javascriptreact": "javascriptreact",
+        "typescript": "typescriptreact",
+        "typescriptreact": "typescriptreact"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "editor.formatOnPaste": true,
+    "workbench.colorTheme": "Minimal Kiwi"
+}
